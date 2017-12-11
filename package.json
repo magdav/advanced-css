@@ -1,0 +1,26 @@
+{
+  "name": "advanced-css",
+  "version": "1.0.0",
+  "description": "jonas course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magdav/advanced-css.git"
+  },
+  "keywords": [
+    "scss"
+  ],
+  "author": "magdav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magdav/advanced-css/issues"
+  },
+  "homepage": "https://github.com/magdav/advanced-css#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
