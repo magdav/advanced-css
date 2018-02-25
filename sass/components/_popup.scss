@@ -11,17 +11,21 @@
     @include absCenter;
     width: 75%;
     background-color: $color-white;
-    height: 50rem;
     box-shadow: 0 2rem 4rem rgba($color-black, .2);
     border-radius: 3px;
+    display: table;
   }
 
   &__left {
-
+    width: 33.3333333%;
+    display: table-cell;
+    vertical-align: middle;
   }
 
   &__right {
-
+    width: 66.6666666%;
+    display: table-cell;
+    vertical-align: middle;
   }
 
   &__img {
